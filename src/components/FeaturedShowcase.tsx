@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { ChevronRight, Maximize2 } from 'lucide-react';
 
 const FeaturedShowcase = () => {

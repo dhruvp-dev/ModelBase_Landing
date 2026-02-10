@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { ShieldCheck, Layers, ChevronRight } from 'lucide-react';
 
 const TrustSection = () => {

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Layers, Box, Cpu, Globe, Search, ArrowUpRight } from 'lucide-react';
 
 const Categories = () => {
